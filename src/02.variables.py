@@ -4,7 +4,7 @@ nombres_desarrolladores = "Alex y Luis"
 # Concatenacion con +
 bienvenida = "Hola " + nombres_desarrolladores + "Como están"
 
-# Concatenación con fStrings.
+# Concatenación con fStrings.5
 bienvenida =  f"Hola {nombres_desarrolladores} Como están"
 
 # Operadores de pertenecia in y not in
