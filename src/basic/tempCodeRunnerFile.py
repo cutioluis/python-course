@@ -1,1 +1,1 @@
-Separacion
+minutos
