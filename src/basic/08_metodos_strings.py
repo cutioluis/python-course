@@ -58,3 +58,5 @@ print(sentence_upper)
 #lower = convierte a minusculas
 sentence_lower = sentence6.lower()
 print(sentence_lower)
+
+
