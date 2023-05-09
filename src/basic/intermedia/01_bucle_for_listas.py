@@ -52,3 +52,18 @@ for numero in numeros:
 else:
     print("El bucle termino")
     #Si no hay elementos igual se ejecuta
+    
+frutas = ["banana", "pera", "pepperoni", "orange", "watermelon"]
+
+
+#termina el bucle con break
+for fruta in frutas:
+    print(f"usando break {fruta}")
+    if fruta == "orange":
+        break
+
+#se salta con el continue
+for fruta in frutas:
+    if fruta == "pera":
+        continue
+    print(f"usando contunue {fruta}")
